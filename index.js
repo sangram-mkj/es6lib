@@ -52,7 +52,7 @@ var highlight = function(givenString) {
 }
 
 
-//Store all methoda in our library object
+//Store all methods in our library object
 var _ = {
     shorten,
     highlight,
