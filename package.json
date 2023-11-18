@@ -1,12 +1,14 @@
 {
   "name": "libraryes6",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests are specified yet, Skipping test\" && exit 0"
   },
-  "engines": { "node": ">=16.0.0"  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "author": "sangram-mkj",
   "license": "ISC"
 }
